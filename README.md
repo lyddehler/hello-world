@@ -4,4 +4,4 @@ My name is Lydia! I am a graphic design major and marketing minor at Emmanuel. I
 <p><a href="http://coastalmainecockapoos.org">Coastal Maine Cockapoos</a></p>
 <p><a href="https://vividlyinspiredart.wordpress.com/">My art page</a></p>
 <p><a href="https://streetsmartdevice.wordpress.com/">A page I made for my marketing class project</a></p>
-<p><H3>Aside from graphic design, I also love drawing and painting! Here are a few of the things I've made.<H3><p>
+<p><H3>Aside from graphic design, I also love drawing and painting! You can check some of that out in the second link I gave if you want(because I can't remember how to insert images on here).<H3><p>
