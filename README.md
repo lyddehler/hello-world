@@ -1,4 +1,5 @@
 # hello-world
+<p><H1>Welcome, everyone!</H1></p>
 <p>My name is Lydia! I am a graphic design major and marketing minor at Emmanuel. I love design and I'm excited to see what I'll learn in this class. I've made a few websites, but all of them were using Wordpress. There is a little bit of coding to do when using Wordpress, but not nearly as much as this.</p>
 <H3>Here are some websites I made with Wordpress!</H3>
 <p><a href="http://coastalmainecockapoos.org">Coastal Maine Cockapoos</a></p>
